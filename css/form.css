@@ -1,0 +1,22 @@
+body{
+  color: #8A8888;
+
+}
+
+h1{
+  text-align: center;
+  color: red;
+}
+
+.padre{
+  align-items: center;
+  display: flex;
+}
+
+#contenedor{
+  width: 100%;
+}
+
+.contenido{
+  margin: 0 auto;
+}
